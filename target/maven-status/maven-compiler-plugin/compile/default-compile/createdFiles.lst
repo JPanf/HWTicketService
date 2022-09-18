@@ -1,0 +1,4 @@
+ru\netology\TicketService\service\TicketPriceComparator.class
+ru\netology\TicketService\service\TicketManager.class
+ru\netology\TicketService\service\TicketRepository.class
+ru\netology\TicketService\service\Ticket.class
